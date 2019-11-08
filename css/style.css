@@ -1,0 +1,42 @@
+.header {
+font-size: 20px;
+line-height: 1.5;
+margin-bottom: 60px auto;
+
+}
+.header span {
+display: block;
+}
+.section {
+	background-color: #ccc;
+	padding: 30px 20px;
+}
+.container .col-lg-6 {
+//border: 3px solid red; 
+}
+.form-header, selection-header {
+	font-size: 20px;
+	margin-bottom: 25px;
+	font-weight: 900;
+}
+.form {
+	border: 5px solid #2727d9;
+	padding: 35px 20px;
+}
+.form-btn{
+	background-color: ##2727d9;
+	margin: 30px auto;
+}
+.form-input {
+margin-bottom: 12px;
+}
+.selection-header {
+font-size: 20px;
+font-weight: 900;
+}
+.futures {
+	margin-top: 50px;
+}
+.featcher-box {
+	height: 160px;
+}
