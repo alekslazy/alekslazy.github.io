@@ -1,2 +1,2 @@
-# alekslazy.github.io
+# Aroniya Zviadi
 Мой сайт на github
